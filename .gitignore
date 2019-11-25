@@ -1,0 +1,5 @@
+#VSCode configs
+/.vscode
+
+#Conda env
+/venv
